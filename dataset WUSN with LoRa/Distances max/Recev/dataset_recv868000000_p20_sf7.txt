@@ -1,0 +1,105 @@
+0000;51;H=86;T=26;Hs=52.97471;sp=20;sf=7;rx_timestamp=8119302; rssi=-109; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;55;H=83;T=26;Hs=52.86783;sp=20;sf=7;rx_timestamp=93644631; rssi=-108; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;59;H=82;T=26;Hs=52.79658;sp=20;sf=7;rx_timestamp=179173808; rssi=-123; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 10:50:47.783414;87;H=76;T=27;Hs=52.58283;sp=20;sf=7;rx_timestamp=50096495; rssi=-110; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;95;H=74;T=27;Hs=52.44033;sp=20;sf=7;rx_timestamp=221149542; rssi=-70; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;99;H=78;T=27;Hs=52.4047;sp=20;sf=7;rx_timestamp=306711473; rssi=-69; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 10:56:29.576037;103;H=76;T=27;Hs=52.76096;sp=20;sf=7;rx_timestamp=392238498; rssi=-110; snr=4.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;111;H=75;T=27;Hs=52.44033;sp=20;sf=7;rx_timestamp=563296326; rssi=-77; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:00:46.664557;115;H=78;T=28;Hs=52.4047;sp=20;sf=7;rx_timestamp=648824183; rssi=-76; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;119;H=73;T=28;Hs=52.29783;sp=20;sf=7;rx_timestamp=734354099; rssi=-78; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;127;H=75;T=28;Hs=52.61846;sp=20;sf=7;rx_timestamp=907508803; rssi=-105; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:06:34.167895;131;H=73;T=28;Hs=52.36907;sp=20;sf=7;rx_timestamp=995134653; rssi=-113; snr=1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:07:58.666376;135;H=73;T=28;Hs=55.25472;sp=20;sf=7;rx_timestamp=1080668522; rssi=-112; snr=0.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:09:24.236302;139;H=75;T=28;Hs=54.82722;sp=20;sf=7;rx_timestamp=1166217408; rssi=-99; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:10:50.156409;143;H=74;T=29;Hs=54.9341;sp=20;sf=7;rx_timestamp=1251762220; rssi=-115; snr=-1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:13:41.704254;151;H=71;T=29;Hs=55.2191;sp=20;sf=7;rx_timestamp=1422828991; rssi=-111; snr=3.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:15:07.688491;155;H=72;T=29;Hs=55.11222;sp=20;sf=7;rx_timestamp=1508362907; rssi=-109; snr=4.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:16:32.201904;159;H=72;T=29;Hs=55.3616;sp=20;sf=7;rx_timestamp=1593897741; rssi=-103; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:17:57.641393;163;H=72;T=29;Hs=55.43285;sp=20;sf=7;rx_timestamp=1679432670; rssi=-101; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;167;H=72;T=29;Hs=55.43285;sp=20;sf=7;rx_timestamp=1764962561; rssi=-117; snr=-3.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:20:48.710302;171;H=71;T=29;Hs=55.25472;sp=20;sf=7;rx_timestamp=1850498477; rssi=-109; snr=4.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:22:16.737621;175;H=72;T=29;Hs=55.07659;sp=20;sf=7;rx_timestamp=1938124386; rssi=-105; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:25:14.553295;183;H=69;T=29;Hs=55.2191;sp=20;sf=7;rx_timestamp=2115484172; rssi=-113; snr=-1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:26:38.679925;187;H=69;T=29;Hs=55.29035;sp=20;sf=7;rx_timestamp=2201056131; rssi=-120; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:28:04.707041;191;H=70;T=29;Hs=55.25472;sp=20;sf=7;rx_timestamp=2286594044; rssi=-112; snr=-0.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:29:30.241582;195;H=67;T=29;Hs=55.68223;sp=20;sf=7;rx_timestamp=2372128969; rssi=-121; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:45:15.699274;239;H=70;T=29;Hs=56.28786;sp=20;sf=7;rx_timestamp=3317264960; rssi=-124; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:46:43.226415;243;H=65;T=30;Hs=56.00285;sp=20;sf=7;rx_timestamp=3404896862; rssi=-121; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;247;H=65;T=30;Hs=56.18097;sp=20;sf=7;rx_timestamp=3490434780; rssi=-123; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 11:59:37.190169;279;H=65;T=30;Hs=57.10723;sp=20;sf=7;rx_timestamp=4178961138; rssi=-119; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:03:55.750054;291;H=69;T=29;Hs=57.03598;sp=20;sf=7;rx_timestamp=142701607; rssi=-122; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:05:22.735914;295;H=68;T=29;Hs=57.00036;sp=20;sf=7;rx_timestamp=228233525; rssi=-123; snr=-9.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:08:12.735885;303;H=67;T=29;Hs=56.96473;sp=20;sf=7;rx_timestamp=399309363; rssi=-120; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:21:10.302177;339;H=71;T=29;Hs=57.53473;sp=20;sf=7;rx_timestamp=1177563751; rssi=-118; snr=-3.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:22:38.214504;343;H=69;T=29;Hs=57.53473;sp=20;sf=7;rx_timestamp=1265196690; rssi=-124; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:24:03.753658;347;H=68;T=29;Hs=57.35661;sp=20;sf=7;rx_timestamp=1350735625; rssi=-100; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:25:29.685148;351;H=71;T=29;Hs=57.14286;sp=20;sf=7;rx_timestamp=1436267559; rssi=-88; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:26:55.219533;355;H=71;T=29;Hs=57.53473;sp=20;sf=7;rx_timestamp=1521807492; rssi=-87; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:28:20.757329;359;H=70;T=29;Hs=57.53473;sp=20;sf=7;rx_timestamp=1607343417; rssi=-89; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:29:47.696973;363;H=71;T=29;Hs=57.49911;sp=20;sf=7;rx_timestamp=1694978327; rssi=-78; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:31:13.327024;367;H=71;T=29;Hs=57.46349;sp=20;sf=7;rx_timestamp=1780516258; rssi=-88; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:33:09.767912;371;H=71;T=28;Hs=60.91913;sp=20;sf=7;rx_timestamp=1896242143; rssi=-57; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:34:34.904180;375;H=71;T=28;Hs=44.7809;sp=20;sf=7;rx_timestamp=1981775001; rssi=-62; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:36:00.744588;379;H=79;T=28;Hs=47.80905;sp=20;sf=7;rx_timestamp=2067315942; rssi=-64; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:37:26.265744;383;H=84;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=2152844656; rssi=-76; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:38:51.377288;387;H=89;T=29;Hs=42.75027;sp=20;sf=7;rx_timestamp=2238400740; rssi=-71; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:40:16.768545;391;H=72;T=29;Hs=42.03776;sp=20;sf=7;rx_timestamp=2323938634; rssi=-83; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:41:42.698392;395;H=71;T=28;Hs=40.79088;sp=20;sf=7;rx_timestamp=2409472526; rssi=-61; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 12:43:08.230850;399;H=72;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=2495004239; rssi=-38; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:00:08.743544;1;H=68;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3515607386; rssi=-31; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:00:32.695675;3;H=69;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3539021311; rssi=-30; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:01:02.741144;1;H=64;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3569586765; rssi=-34; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:01:26.236032;3;H=64;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3592996691; rssi=-44; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:01:49.721949;5;H=67;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3616282646; rssi=-55; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:02:12.720961;7;H=78;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3639574603; rssi=-65; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:02:36.303831;9;H=88;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3662864559; rssi=-82; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:02:59.417686;11;H=81;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3686159550; rssi=-71; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:03:24.789436;13;H=89;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3711526507; rssi=-62; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;15;H=90;T=28;Hs=0.0;sp=20;sf=7;rx_timestamp=3734819475; rssi=-61; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;17;H=90;T=28;Hs=26.86142;sp=20;sf=7;rx_timestamp=3758115632; rssi=-71; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:04:34.255586;19;H=87;T=28;Hs=29.03456;sp=20;sf=7;rx_timestamp=3781412602; rssi=-72; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:04:57.751818;21;H=77;T=27;Hs=30.56644;sp=20;sf=7;rx_timestamp=3804704559; rssi=-81; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:05:21.243105;23;H=77;T=27;Hs=31.31457;sp=20;sf=7;rx_timestamp=3827995531; rssi=-75; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:05:44.886853;25;H=78;T=27;Hs=31.88457;sp=20;sf=7;rx_timestamp=3851293505; rssi=-77; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:06:07.725538;27;H=79;T=27;Hs=32.38333;sp=20;sf=7;rx_timestamp=3874585468; rssi=-77; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:06:31.215517;29;H=78;T=27;Hs=32.56145;sp=20;sf=7;rx_timestamp=3897875441; rssi=-86; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:06:54.218318;31;H=79;T=27;Hs=33.41646;sp=20;sf=7;rx_timestamp=3921173408; rssi=-100; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:07:17.708906;33;H=79;T=27;Hs=33.59458;sp=20;sf=7;rx_timestamp=3944465376; rssi=-101; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:07:41.305892;35;H=77;T=27;Hs=33.59458;sp=20;sf=7;rx_timestamp=3967755339; rssi=-102; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:08:03.808732;37;H=75;T=27;Hs=33.66583;sp=20;sf=7;rx_timestamp=3991053311; rssi=-99; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:08:27.288770;39;H=77;T=27;Hs=34.05771;sp=20;sf=7;rx_timestamp=4014345278; rssi=-103; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:08:50.785562;41;H=78;T=27;Hs=33.95084;sp=20;sf=7;rx_timestamp=4037635255; rssi=-113; snr=1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:09:13.799337;43;H=77;T=27;Hs=34.12897;sp=20;sf=7;rx_timestamp=4060958221; rssi=-112; snr=2.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:10:25.227053;49;H=75;T=27;Hs=34.05771;sp=20;sf=7;rx_timestamp=4130884136; rssi=-123; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:12:43.787989;61;H=73;T=28;Hs=34.16459;sp=20;sf=7;rx_timestamp=4270641007; rssi=-124; snr=-7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:13:30.268707;65;H=74;T=28;Hs=34.16459;sp=20;sf=7;rx_timestamp=22254658; rssi=-122; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:14:16.755102;69;H=71;T=28;Hs=33.80834;sp=20;sf=7;rx_timestamp=68842612; rssi=-123; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:17:02.296384;83;H=73;T=28;Hs=34.12897;sp=20;sf=7;rx_timestamp=233980466; rssi=-121; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:17:48.291139;87;H=73;T=29;Hs=33.77271;sp=20;sf=7;rx_timestamp=280569419; rssi=-121; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:18:11.791436;89;H=73;T=29;Hs=33.98646;sp=20;sf=7;rx_timestamp=303859408; rssi=-122; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:18:35.285637;91;H=70;T=29;Hs=34.05771;sp=20;sf=7;rx_timestamp=327168380; rssi=-117; snr=-2.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:20:54.745995;103;H=70;T=28;Hs=33.59458;sp=20;sf=7;rx_timestamp=466926333; rssi=-116; snr=-1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:30:45.825009;153;H=70;T=29;Hs=32.77521;sp=20;sf=7;rx_timestamp=1057772043; rssi=-124; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:31:32.310126;157;H=70;T=29;Hs=32.66833;sp=20;sf=7;rx_timestamp=1104366026; rssi=-124; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 13:41:00.274531;205;H=68;T=28;Hs=32.09832;sp=20;sf=7;rx_timestamp=1671935839; rssi=-119; snr=-4.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:03:28.907409;319;H=66;T=28;Hs=31.81332;sp=20;sf=7;rx_timestamp=3021041786; rssi=-126; snr=-9.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:07:56.372817;341;H=65;T=28;Hs=31.74207;sp=20;sf=7;rx_timestamp=3287786823; rssi=-122; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+0000;343;H=67;T=29;Hs=31.84895;sp=20;sf=7;rx_timestamp=3311083826; rssi=-120; snr=-4.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:09:05.444245;347;H=65;T=28;Hs=31.42145;sp=20;sf=7;rx_timestamp=3357678824; rssi=-124; snr=-7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:10:40.954113;355;H=64;T=28;Hs=31.4927;sp=20;sf=7;rx_timestamp=3452988777; rssi=-116; snr=-2.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:12:13.877459;363;H=66;T=27;Hs=31.9202;sp=20;sf=7;rx_timestamp=3546206795; rssi=-121; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:13:00.875472;367;H=68;T=27;Hs=31.52832;sp=20;sf=7;rx_timestamp=3592807849; rssi=-115; snr=-1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:15:22.377338;379;H=69;T=28;Hs=31.70645;sp=20;sf=7;rx_timestamp=3734705855; rssi=-124; snr=-8.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:22:00.508299;413;H=68;T=28;Hs=31.38582;sp=20;sf=7;rx_timestamp=4132984898; rssi=-122; snr=-6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:24:43.962065;427;H=68;T=28;Hs=31.31457;sp=20;sf=7;rx_timestamp=1123607; rssi=-114; snr=1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:25:08.515576;429;H=69;T=28;Hs=31.31457;sp=20;sf=7;rx_timestamp=24421620; rssi=-121; snr=-5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:25:30.466506;431;H=68;T=28;Hs=31.31457;sp=20;sf=7;rx_timestamp=47716623; rssi=-114; snr=-0.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:25:53.957557;433;H=68;T=28;Hs=31.31457;sp=20;sf=7;rx_timestamp=71012615; rssi=-112; snr=1.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:26:17.490091;435;H=70;T=28;Hs=31.3502;sp=20;sf=7;rx_timestamp=94310582; rssi=-102; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:26:40.578458;437;H=71;T=29;Hs=31.63519;sp=20;sf=7;rx_timestamp=117606618; rssi=-106; snr=5.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:27:03.461461;439;H=68;T=29;Hs=31.70645;sp=20;sf=7;rx_timestamp=140904627; rssi=-100; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:27:26.963688;441;H=70;T=29;Hs=31.42145;sp=20;sf=7;rx_timestamp=164212623; rssi=-99; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:27:49.960771;443;H=67;T=29;Hs=31.56395;sp=20;sf=7;rx_timestamp=187510623; rssi=-98; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:28:13.954051;445;H=65;T=29;Hs=31.81332;sp=20;sf=7;rx_timestamp=210807634; rssi=-82; snr=7.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
+2024-07-06 14:28:36.457561;447;H=68;T=29;Hs=31.4927;sp=20;sf=7;rx_timestamp=234104587; rssi=-54; snr=6.0; sfrx=7; sftx=0; tx_trials=0; tx_power=14; tx_time_on_air=0; tx_counter=0; tx_frequency=0
